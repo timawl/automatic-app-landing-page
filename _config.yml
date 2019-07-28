@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : My Little Planet                                
 your_link                                 :                     
-your_city                                 : Paris                                
+your_city                                 :                                 
 email_address                             : contact@mylittleplan.net
 facebook_username                         :                                           
 instagram_username                        : getkimo
@@ -82,10 +82,10 @@ topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#91BFFF"
+cover_overlay_color                       : "#F5F5F5"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "ffffff"
 
