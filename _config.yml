@@ -34,17 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : TUTOS DIY
-    description                           : Apprends à faire tes produits d’hygiène et tes cosmétiques avec l’application Kimo grâce à des tutos écrits et vidéos.
+  - title                                 : TUTORIELS
+    description                           : Apprends à faire tes produits d’hygiène/cosmétiques et découvre des recettes de cuisine simples
     fontawesome_icon_name                 : info-circle #magic
     
   - title                                 : ARTICLES
-    description                           : Découvre aussi, à travers nos articles, des routines plus respectueuses pour la planète.
+    description                           : Découvre aussi des routines plus respectueuses pour la planète.
     fontawesome_icon_name                 : info-circle #mobile
 
-  - title                                 : #Video Support
-    description                           : #Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : #play-circle
+  - title                                 : FEED
+    description                           : Suis toute l'actualité green en un coup d'oeil !
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : #Automatic Icon and Metadata
     description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
