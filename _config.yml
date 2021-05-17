@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Améliore ton impact sur la planète avec Kimo ! 💪🌍
+app_description                           : L’application la plus simple pour consommer durablement 🌎🌱 🌍🌱
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,16 +35,16 @@ youtube_username                          :
 features                                  :
 
   - title                                 : TUTORIELS
-    description                           : Apprends à faire tes produits d’hygiène/cosmétiques et découvre des recettes de cuisine simples
+    description                           : Apprends à consommer autrement grâce à plus de 100 tutoriels minimalistes 🚀
     fontawesome_icon_name                 : info-circle #magic
     
-  - title                                 : ARTICLES
-    description                           : Découvre aussi des routines plus respectueuses pour la planète.
+  - title                                 : SHOPPING
+    description                           : Découvre des alternatives écoresponsables et abordables pour tous 🥰
     fontawesome_icon_name                 : info-circle #mobile
 
-  - title                                 : NEWS FEED 
-    description                           : Suis toute l'actualité green en un coup d'oeil !
-    fontawesome_icon_name                 : info-circle
+  - title                                 : #NEWS FEED 
+    description                           : #Suis toute l'actualité green en un coup d'oeil !
+    fontawesome_icon_name                 : #info-circle
 
   - title                                 : #Automatic Icon and Metadata
     description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
