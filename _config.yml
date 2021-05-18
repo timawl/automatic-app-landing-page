@@ -35,15 +35,15 @@ youtube_username                          :
 features                                  :
 
   - title                                 : TUTORIELS
-    description                           : 🙀 Apprends à consommer autrement grâce à plus de 100 tutoriels minimalistes
+    description                           : Apprends à consommer autrement grâce à plus de 100 tutoriels minimalistes 🙀
     fontawesome_icon_name                 : info-circle #magic
     
   - title                                 : SHOPPING
-    description                           : 🛍 Découvre des alternatives écoresponsables et abordables pour tous 
+    description                           : Découvre des alternatives écoresponsables et abordables pour tous 🛍
     fontawesome_icon_name                 : info-circle #mobile
 
   - title                                 : KIMO PLUS  
-    description                           : 🥰 Notre programme membre pour bénéficier de réductions sur toutes les marques du Shop et accéder à du contenu exclusif
+    description                           : Notre programme membre pour bénéficier de réductions sur toutes les marques du Shop et accéder à du contenu exclusif 🥰 
     fontawesome_icon_name                 : info-circle
 
   - title                                 : #Automatic Icon and Metadata
