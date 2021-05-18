@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : KIMO PLUS  
     description                           : 🥰 Notre programme membre pour bénéficier de réductions sur toutes les marques du Shop et accéder à du contenu exclusif
-    fontawesome_icon_name                 : #info-circle
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : #Automatic Icon and Metadata
     description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
