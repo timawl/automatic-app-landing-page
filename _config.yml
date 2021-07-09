@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : L’application la plus simple pour consommer durablement 🌍🌱
+app_description                           : Rendre les produits éco-friendly accessibles pour tous 🌍🌱
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : TUTORIELS
-    description                           : Apprends à consommer autrement grâce à plus de 100 tutoriels minimalistes 🙀
-    fontawesome_icon_name                 : info-circle #magic
-    
   - title                                 : SHOPPING
     description                           : Découvre des alternatives écoresponsables et abordables pour tous 🛍
+    fontawesome_icon_name                 : info-circle #magic
+    
+  - title                                 : CONTENU
+    description                           : Apprends à consommer autrement grâce à plus de 100 tutoriels 🙀
     fontawesome_icon_name                 : info-circle #mobile
 
   - title                                 : KIMO PLUS  
-    description                           : Notre programme membre pour bénéficier de réductions sur toutes les marques du Shop et accéder à du contenu exclusif 🥰 
+    description                           : Jusqu’à 20% de réduction sur notre sélection de marques écoresponsables. 
     fontawesome_icon_name                 : info-circle
 
   - title                                 : #Automatic Icon and Metadata
