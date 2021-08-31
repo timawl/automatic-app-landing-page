@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Rendre les produits éco-friendly accessibles pour tous 🌍🌱
+app_description                           : L'application pour acheter des produits cools et engagés 😍
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -24,8 +24,8 @@ your_link                                 :
 your_city                                 :                                 
 email_address                             : contact@getkimo.com
 facebook_username                         :                                         
-instagram_username                        : getkimo
-twitter_username                          : getkimo
+instagram_username                        : kimo.app
+twitter_username                          : kimo_app
 github_username                           : 
 youtube_username                          :
 
@@ -38,13 +38,13 @@ features                                  :
     description                           : Découvre des alternatives écoresponsables et abordables pour tous 🛍
     fontawesome_icon_name                 : info-circle #magic
     
-  - title                                 : CONTENU
-    description                           : Apprends à consommer autrement grâce à plus de 100 tutoriels 🙀
+  - title                                 : KIMO PLUS 
+    description                           : Jusqu’à 20% de réduction et retour gratuit sur notre sélection de marques écoresponsables.
     fontawesome_icon_name                 : info-circle #mobile
 
-  - title                                 : KIMO PLUS  
-    description                           : Jusqu’à 20% de réduction sur notre sélection de marques écoresponsables. 
-    fontawesome_icon_name                 : info-circle
+  - title                                 #: KIMO PLUS  
+    description                           #: Jusqu’à 20% de réduction et retour gratuit sur notre sélection de marques écoresponsables. 
+    fontawesome_icon_name                 #: info-circle
 
   - title                                 : #Automatic Icon and Metadata
     description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
