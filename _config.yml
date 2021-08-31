@@ -42,9 +42,9 @@ features                                  :
     description                           : Jusqu’à 20% de réduction et retour gratuit sur notre sélection de marques écoresponsables.
     fontawesome_icon_name                 : info-circle #mobile
 
-  - title                                 #: KIMO PLUS  
-    description                           #: Jusqu’à 20% de réduction et retour gratuit sur notre sélection de marques écoresponsables. 
-    fontawesome_icon_name                 #: info-circle
+  - title                                 : #KIMO PLUS  
+    description                           : #Jusqu’à 20% de réduction et retour gratuit sur notre sélection de marques écoresponsables. 
+    fontawesome_icon_name                 : #info-circle
 
   - title                                 : #Automatic Icon and Metadata
     description                           : #Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
